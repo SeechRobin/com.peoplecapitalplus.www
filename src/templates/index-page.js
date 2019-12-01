@@ -10,7 +10,7 @@ export const IndexPageTemplate = ({
   image,
   title,
   heading,
-  subheading,
+  // subheading,
   mainpitch,
   description,
   intro,
@@ -60,7 +60,7 @@ export const IndexPageTemplate = ({
             padding: '0.25em',
           }}
         >
-          {/* {subheading} */}
+          {subheading}
         </h3>
       </div>
     </div>
@@ -135,7 +135,7 @@ const IndexPage = ({ data }) => {
         image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
-        // subheading={frontmatter.subheading}
+        subheading={frontmatter.subheading}
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
         intro={frontmatter.intro}
