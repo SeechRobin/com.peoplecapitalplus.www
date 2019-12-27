@@ -9,10 +9,7 @@ mainpitch:
   description: >
     Recruitment and Selection / Organisation Development/ learning and development/ coaching and mentoring services
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    People Capital Plus aims to provide creative and innovative customised Human Resources Services and Organisational Development solutions to our clients and partners.
 intro:
   blurbs:
     - image: /img/coffee.png
